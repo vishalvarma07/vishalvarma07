@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalvarma07&label=Profile%20views&color=0e75b6&style=flat" alt="vishalvarma07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalvarma07" alt="vishalvarma07" /></a> </p>
-
 - 🔭 I’m currently working on [Advanced Rag system](https://github.com/vishalvarma07/langchain/tree/master)
 
 - 🌱 I’m currently learning **LangChain, LLamaIndex**
