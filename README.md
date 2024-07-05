@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kovoru27@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OK2DgXJqgLu1W8LXNMf6c2NJDoTgMpFR/view?usp=sharing](https://drive.google.com/file/d/1OK2DgXJqgLu1W8LXNMf6c2NJDoTgMpFR/view?usp=sharing)
+- 📄 Know about my experiences [My Tale](https://tinyurl.com/4bujdt5h)
 
 - ⚡ Fun fact **I specialize in annoying friends into spontaneous adventures 🌍, devouring new foods like a true foodie 🍔, and cheering for F1 like it’s a full-time job 🏎️!**
 
