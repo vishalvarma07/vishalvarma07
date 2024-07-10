@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **React, Neural Networks, Computer Vision**
 
+- Follow my publications on [PyPi](https://pypi.org/user/dragxter/)
+
 - 📫 How to reach me **kovoru27@gmail.com**
 
 - 📄 Know about my experiences [https://tinyurl.com/4bujdt5h](https://tinyurl.com/4bujdt5h)
