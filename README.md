@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Varma Kovoru</h1>
-<h3 align="center">AI/ML Adventurer 🧠 | Ex-Full Stack Fanatic with a Project Playground 🎢</h3>
+<h3 align="center">AI/ML Adventurer 🧠 | Full Stack Fanatic with a Project Playground 🎢</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalvarma07&label=Profile%20views&color=0e75b6&style=flat" alt="vishalvarma07" /> </p>
 
